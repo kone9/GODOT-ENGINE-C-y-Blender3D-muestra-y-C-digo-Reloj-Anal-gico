@@ -1,0 +1,6 @@
+C:\Users\ariel\Documents\RelogAnalogico_con_C#\.mono\temp\bin\Tools\RelogAnalogico_con_C#.dll
+C:\Users\ariel\Documents\RelogAnalogico_con_C#\.mono\temp\bin\Tools\RelogAnalogico_con_C#.pdb
+C:\Users\ariel\Documents\RelogAnalogico_con_C#\.mono\temp\obj\Tools\RelogAnalogico_con_C#.csprojAssemblyReference.cache
+C:\Users\ariel\Documents\RelogAnalogico_con_C#\.mono\temp\obj\Tools\RelogAnalogico_con_C#.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Documents\RelogAnalogico_con_C#\.mono\temp\obj\Tools\RelogAnalogico_con_C#.dll
+C:\Users\ariel\Documents\RelogAnalogico_con_C#\.mono\temp\obj\Tools\RelogAnalogico_con_C#.pdb
