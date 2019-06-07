@@ -1,4 +1,4 @@
-# GODOT-ENGINE-C#-y-Blender3D-muestra-y-Código-Reloj-Analogico
+# GODOT-ENGINE-C#-y-Blender3D-muestra-y-Código-Reloj-Analógico
 Un reloj con c# en Godot Engine
 https://www.youtube.com/watch?v=JZWPVZYd1uc
 
