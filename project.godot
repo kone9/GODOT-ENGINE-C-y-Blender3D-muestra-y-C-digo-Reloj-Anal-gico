@@ -17,7 +17,11 @@ _global_script_class_icons={
 
 config/name="RelogAnalogico_con_C#"
 run/main_scene="res://escenas/relog.tscn"
-config/icon="res://icon.png"
+config/icon="res://Screenshot_3.png"
+
+[debug]
+
+settings/stdout/print_fps=true
 
 [rendering]
 
